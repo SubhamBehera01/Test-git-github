@@ -8,8 +8,5 @@ some massage from second file
 
 Annother masage for second file
 
-<<<<<<< HEAD
 check to modes.
-=======
 checked confirm
->>>>>>> bug-fix
