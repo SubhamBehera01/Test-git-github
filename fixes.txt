@@ -1,3 +1,8 @@
 fixing  all the bugs  and adding some content
 
 fixed  first bug.
+fixd my second bug.
+
+fixed third bug.
+fixd fourth bug.
+fixed fifth bug.
