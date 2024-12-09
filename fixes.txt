@@ -10,3 +10,5 @@ fixed fifth bug.
 fixed some new bugs.
 
 fixed annother bug
+
+fixing for anothermode.
